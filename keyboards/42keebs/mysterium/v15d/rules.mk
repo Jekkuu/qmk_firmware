@@ -12,7 +12,11 @@ F_CPU = 16000000
 #   QMK DFU      qmk-dfu
 #   ATmega32A    bootloadHID
 #   ATmega328P   USBasp
+<<<<<<< HEAD
 BOOTLOADER = USBasp
+=======
+BOOTLOADER = usbasploader
+>>>>>>> bddc30d21f539220c7a6c0fe2d4acaedb1857121
 
 # Build Options
 #   change yes to no to disable

@@ -10,6 +10,10 @@ A TKL keyboard that can be assembled with only through hole components, includin
 
 Make example for this keyboard (after setting up your build environment):
 
+<<<<<<< HEAD
     make coseyfannitutti/mysterium:default
+=======
+    make 42keebs/mysterium/v15d:default 
+>>>>>>> bddc30d21f539220c7a6c0fe2d4acaedb1857121
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).

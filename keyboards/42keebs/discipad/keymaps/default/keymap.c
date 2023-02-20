@@ -19,7 +19,11 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [_BL] = LAYOUT_numpad_5x4_full(
+<<<<<<< HEAD
       KC_NLCK, KC_PSLS, KC_PAST, KC_PMNS, 
+=======
+      KC_NUM,  KC_PSLS, KC_PAST, KC_PMNS, 
+>>>>>>> bddc30d21f539220c7a6c0fe2d4acaedb1857121
       KC_P7,   KC_P8,   KC_P9,   KC_A,         
       KC_P4,   KC_P5,   KC_P6,   KC_PPLS, 
       KC_P1,   KC_P2,   KC_P3,   KC_B,         

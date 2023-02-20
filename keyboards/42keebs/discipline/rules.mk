@@ -20,5 +20,9 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 ENCODER_ENABLE = yes
+<<<<<<< HEAD
+=======
+ENCODER_MAP_ENABLE = yes
+>>>>>>> bddc30d21f539220c7a6c0fe2d4acaedb1857121
 
 LAYOUTS = 65_ansi 65_ansi_blocker 65_iso 65_iso_blocker
